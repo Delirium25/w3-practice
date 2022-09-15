@@ -1,0 +1,10 @@
+.cats img {
+  width: 200px;
+  margin-top: 10px;
+}
+
+.cats {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
